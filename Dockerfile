@@ -25,25 +25,6 @@ RUN apt-get update \
         python3-venv \
         psmisc \
         ros-$ROS_DISTRO-ros-base \
-        ros-$ROS_DISTRO-moveit \
-        ros-$ROS_DISTRO-moveit-task-constructor-core \
-        ros-$ROS_DISTRO-moveit-task-constructor-msgs \
-        ros-$ROS_DISTRO-pymoveit2 \
-        ros-$ROS_DISTRO-controller-manager \
-        ros-$ROS_DISTRO-forward-command-controller \
-        ros-$ROS_DISTRO-joint-state-broadcaster \
-        ros-$ROS_DISTRO-joint-state-publisher \
-        ros-$ROS_DISTRO-joint-state-publisher-gui \
-        ros-$ROS_DISTRO-joint-trajectory-controller \
-        ros-$ROS_DISTRO-joy \
-        ros-$ROS_DISTRO-position-controllers \
-        ros-$ROS_DISTRO-ros2-control \
-        ros-$ROS_DISTRO-ros2-controllers \
-        ros-$ROS_DISTRO-ros2controlcli \
-        ros-$ROS_DISTRO-rqt-* \
-        ros-$ROS_DISTRO-velocity-controllers \
-        ros-$ROS_DISTRO-gripper-controllers \
-        ros-$ROS_DISTRO-urdf-tutorial \
     && rm -rf /var/lib/apt/lists/*
 
 # Python virtual environment

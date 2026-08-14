@@ -26,7 +26,7 @@ After that, in **VS Code**, press *Ctrl + Shift + P* and select *Dev Containers:
 
 ## Development
 
-The technical specification describing the required nodes can be found in the [node_descriptions](/docs/node_descriptions) folder.
+The technical specification describing the required nodes can be found in the [nodes](/docs/nodes) folder.
 
 ---
 ## Русская версия
@@ -51,4 +51,4 @@ source /opt/ros/lyrical/setup.bash
 После этого в **VS Code** нажмите *Ctrl + Shift + P* и выберите *Dev Containers: Attach to Running Container* (установите расширение **Dev Containers**, если необходимо). 
 
 ## Разработка
-Техническое задание с описанием нужных нод находится в папке [node_descriptions](/docs/node_descriptions)
+Техническое задание с описанием нужных нод находится в папке [nodes](/docs/node_descriptions)
