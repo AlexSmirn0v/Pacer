@@ -7,7 +7,7 @@
 | **Publisher** | [`\azimuth`](../topics/azimuth.md)|
 | **Client** | [`\path`](../topics/path.md) |
 | **Service** | - |
-| **Исполнитель** |`TBD`|
+| **Исполнитель** |`AlexSmirn0v`|
 | **Статус** | `Запланировано`|
 
 ### Вход

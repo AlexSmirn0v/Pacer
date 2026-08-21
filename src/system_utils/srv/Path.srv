@@ -1,0 +1,3 @@
+geographic_msgs/msg/GeoPoint location
+---
+geographic_msgs/msg/GeoPoint[] path

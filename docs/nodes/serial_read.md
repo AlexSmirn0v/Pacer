@@ -7,7 +7,7 @@
 | **Publisher** | [`\coordinates`](../topics/coordinates.md)|
 | **Client** | [`\shutdown`](../topics/shutdown.md)|
 | **Service** | - |
-| **Исполнитель** |`TBD`|
+| **Исполнитель** |`AlexSmirn0v`|
 | **Статус** | `Запланировано`|
 
 ### Вход

@@ -4,5 +4,5 @@
 | **Nodes** | [`serial_read`](../nodes/serial_read.md), [`serial_write`](../nodes/serial_write.md)|
 | **Раздел** | `Низкоуровневый код` |
 | **Язык** | С USB-коммуникацией удобнее на `Python` благодаря *pyserial*|
-| **Исполнитель** | `TBD`|
+| **Исполнитель** | `AlexSmirn0v`|
 | **Статус**| `Запланировано`|

@@ -4,5 +4,5 @@
 | **Nodes** | [`compass`](../nodes/compass.md), [`decision`](../nodes/decision.md)|
 | **Раздел** | `Навигация` |
 | **Язык** | `Python`/`C++`|
-| **Исполнитель** | `TBD`|
+| **Исполнитель** | `AlexSmirn0v`|
 | **Статус**| `Запланировано`|

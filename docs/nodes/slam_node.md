@@ -7,7 +7,7 @@
 | **Publisher** | [`\obstacles`](../topics/obstacles.md)|
 | **Client** | - |
 | **Service** | - |
-| **Исполнитель** |`TBD`|
+| **Исполнитель** |`nastyakrivova`|
 | **Статус** | `Запланировано`|
 
 ### Вход

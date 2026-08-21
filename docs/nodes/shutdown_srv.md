@@ -7,7 +7,7 @@
 | **Publisher** | -|
 | **Client** | -|
 | **Service** | [`\shutdown`](../topics/shutdown.md) |
-| **Исполнитель** |`TBD`|
+| **Исполнитель** |`AlexSmirn0v`|
 | **Статус** | `Запланировано`|
 
 ### Вход
